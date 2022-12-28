@@ -110,3 +110,8 @@ footer{
     display: flex;
     justify-content: space-between;
 }
+
+.button-style{
+    margin: 50px;
+    color: black;
+}
